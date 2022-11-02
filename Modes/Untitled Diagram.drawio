@@ -1,74 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T15:15:49.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5LFqlo6_8iBcdx-GLmmR" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T15:34:41.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="DYaAWslBCwc2RcMHIKI7" version="20.0.1" type="github">
   <diagram id="evY3YpU_zeYW-5D1040_" name="Page-1">
     <mxGraphModel dx="1022" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="730" height="160" as="geometry" />
+          <mxGeometry x="40" y="40" width="798" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-1">
-          <mxGeometry width="730" height="40" as="geometry" />
+          <mxGeometry width="798" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-3" value="&lt;b&gt;Attached Mode&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-2">
-          <mxGeometry width="366" height="40" as="geometry">
-            <mxRectangle width="366" height="40" as="alternateBounds" />
+          <mxGeometry width="401" height="40" as="geometry">
+            <mxRectangle width="401" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-4" value="&lt;b&gt;Detached Mode&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-2">
-          <mxGeometry x="366" width="364" height="40" as="geometry">
-            <mxRectangle width="364" height="40" as="alternateBounds" />
+          <mxGeometry x="401" width="397" height="40" as="geometry">
+            <mxRectangle width="397" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-1">
-          <mxGeometry y="40" width="730" height="40" as="geometry" />
+          <mxGeometry y="40" width="798" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KZxAK5JLhgqCDWvKIAx0-6" value="It means you can see the output from the process running inside the container on the console&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-5">
-          <mxGeometry width="366" height="40" as="geometry">
-            <mxRectangle width="366" height="40" as="alternateBounds" />
+        <mxCell id="KZxAK5JLhgqCDWvKIAx0-6" value="If you run a container in attached mode, It means you can see the output from the process running inside the container on the console&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-5">
+          <mxGeometry width="401" height="40" as="geometry">
+            <mxRectangle width="401" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-7" value="You can&#39;t see process output." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-5">
-          <mxGeometry x="366" width="364" height="40" as="geometry">
-            <mxRectangle width="364" height="40" as="alternateBounds" />
+          <mxGeometry x="401" width="397" height="40" as="geometry">
+            <mxRectangle width="397" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-1">
-          <mxGeometry y="80" width="730" height="40" as="geometry" />
+          <mxGeometry y="80" width="798" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-9" value="By default, &lt;b&gt;docker run&lt;/b&gt;&amp;nbsp;command runs in attached mode.&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-8">
-          <mxGeometry width="366" height="40" as="geometry">
-            <mxRectangle width="366" height="40" as="alternateBounds" />
+          <mxGeometry width="401" height="40" as="geometry">
+            <mxRectangle width="401" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-10" value="By default, &lt;b&gt;docker start&lt;/b&gt;&amp;nbsp;command runs in detached mode.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-8">
-          <mxGeometry x="366" width="364" height="40" as="geometry">
-            <mxRectangle width="364" height="40" as="alternateBounds" />
+          <mxGeometry x="401" width="397" height="40" as="geometry">
+            <mxRectangle width="397" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-11" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-1">
-          <mxGeometry y="120" width="730" height="40" as="geometry" />
+          <mxGeometry y="120" width="798" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-12" value="&lt;b&gt;docker run -d&lt;/b&gt;&amp;nbsp;&lt;b&gt;:&lt;/b&gt; To run in detached mode&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-11">
-          <mxGeometry width="366" height="40" as="geometry">
-            <mxRectangle width="366" height="40" as="alternateBounds" />
+          <mxGeometry width="401" height="40" as="geometry">
+            <mxRectangle width="401" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-13" value="&lt;b&gt;docker start -a :&amp;nbsp;&lt;/b&gt; to run in attached mode." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-11">
-          <mxGeometry x="366" width="364" height="40" as="geometry">
-            <mxRectangle width="364" height="40" as="alternateBounds" />
+          <mxGeometry x="401" width="397" height="40" as="geometry">
+            <mxRectangle width="397" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZxAK5JLhgqCDWvKIAx0-17" value="Interactive Mode" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="720" height="230" as="geometry" />
+        <mxCell id="KZxAK5JLhgqCDWvKIAx0-17" value="Interactive Mode" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="785" height="230" as="geometry" />
         </mxCell>
         <mxCell id="KZxAK5JLhgqCDWvKIAx0-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-17">
-          <mxGeometry y="30" width="720" height="200" as="geometry" />
+          <mxGeometry y="30" width="785" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="KZxAK5JLhgqCDWvKIAx0-19" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;This mode is different from attached and detached modes.&amp;nbsp;&lt;br&gt;In attached and detached modes, you can&#39;t give input.&lt;br&gt;So to be able input to the process running inside the container, you need to run container in interactive mode.&lt;br&gt;But there is a condition to run a container in interactive mode that is it must be running in attached mode.&lt;br&gt;Command to run in interactive mode ==&amp;gt; docker run -i -t &amp;lt;image_name&amp;gt;&lt;br&gt;i = To run container in interactive mode.&lt;br&gt;t = To get a nice tty terminal through which we can give input.&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-18">
-          <mxGeometry width="720" height="200" as="geometry">
-            <mxRectangle width="720" height="200" as="alternateBounds" />
+        <mxCell id="KZxAK5JLhgqCDWvKIAx0-19" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;This mode is different from attached and detached modes.&amp;nbsp;&lt;br&gt;In attached and detached modes, you can&#39;t give input.&lt;br&gt;So to be able to give input to a process running inside a container, you need to run the container in interactive mode.&lt;br&gt;But there is a &lt;b&gt;condition &lt;/b&gt;to run a container in interactive mode that is it must be running in attached mode.&lt;br&gt;Command to run in interactive mode ==&amp;gt; docker run -i -t &amp;lt;&lt;b&gt;image_name&lt;/b&gt;&amp;gt;&lt;br&gt;i = To run container in interactive mode.&lt;br&gt;t = To get a nice tty terminal through which we can give input.&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KZxAK5JLhgqCDWvKIAx0-18">
+          <mxGeometry width="785" height="200" as="geometry">
+            <mxRectangle width="785" height="200" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KZxAK5JLhgqCDWvKIAx0-22" value="&lt;b&gt;NOTE: Study docker commands ==&amp;gt; &lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;docker attach &amp;lt;container_id_or_name&amp;gt;&lt;br&gt;docker logs&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;container_id_or_name&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="542" width="782" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
